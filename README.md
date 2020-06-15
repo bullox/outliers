@@ -1,0 +1,3 @@
+# Outliers
+
+Collaborative sociographic installation.
