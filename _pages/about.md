@@ -7,7 +7,7 @@ permalink: /about/
 
 We are all OUTLIERS.
 
-Those who are connecting us at this stage of our journey are:
+Those connecting us at this stage of our journey are:
 
 * [Anouk Spelt](https://twitter.com/anoukspelt)
 * [Clare Murphy](http://claremurphy.org)
