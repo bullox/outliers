@@ -5,7 +5,15 @@ image: together.jpg
 permalink: /about/
 ---
 
-We are all OUTLIERS.
+OUTLIERS is born of a shared commitment to the value of expert collaboration across disciplines. We are a collective, a tribe, a swarm of people from different cultural and educational backgrounds who found each other around and about Bristol, UK, in 2018.
+
+Most of us are researchers, from different fields, who know first-hand just how isolating and competitive the world of science can be. We come from a world of hypotheses, of molecules and atoms and photons. Of words broken down to their most fundamental components.
+
+We are OUTLIERS. We are people who do not quite fit in the frames and moulds of our professions, of our social groups, of what others expect us to do and like. As logical and rational scientists, we are also creative, abstract, improvising dreamers. We want more than components and categories, than the sterile isolation of data. We are human.
+
+So when we, researchers, found ourselves together in a room with the brilliant performance storyteller/science comms trainer Clare Murphy and with Mireia Bes Garcia, a public-engagement specialist with a talent for bringing people together, sparks of community were forged into strong bonds. We were all drawn together by our love of creativity, of communication, of storytelling, of science and languages and levitating robots.
+
+We are all OUTLIERS. *You* are OUTLIERS.
 
 Those connecting us at this stage of our journey are:
 
