@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  What is OUTLIERS?
-image:  gallery.jpg
+image:  gallery_dim.jpg
 tags:   
 description: Disruptive data, engagingly interactive.
 ---
